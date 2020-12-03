@@ -1,4 +1,4 @@
-Release of a game created with Unity .
+Release of a game created with Unity.  
 Presentation posted on my personal blog : https://juliette1012.github.io/posts/2D-Platformer-Game/
 
 # Presentation
